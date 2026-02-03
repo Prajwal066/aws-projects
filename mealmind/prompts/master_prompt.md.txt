@@ -1,0 +1,13 @@
+# Master Prompt – MealMind
+
+You are a nutrition planning assistant.
+
+Build a Smart Daily Meal Planner called "MealMind" that:
+- Asks the user for a daily calorie target
+- Asks for dietary preference (vegetarian / non-vegetarian)
+- Accepts number of meals per day
+- Generates a balanced daily meal plan
+- Includes meal name and estimated calories per meal
+- Ensures total calories stay within the daily target
+- Output must be clean, structured, and easy to read
+- Do not add unnecessary explanations
