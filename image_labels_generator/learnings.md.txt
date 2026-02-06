@@ -1,0 +1,6 @@
+## Learnings
+
+- Amazon Rekognition demo UI is for experimentation; real workloads use APIs
+- AWS services are region-specific (Rekognition not available in eu-north-1)
+- S3 is commonly used as an input source for AI services
+- AWS CLI provides direct access to AWS service APIs
