@@ -35,5 +35,4 @@ region-specific availability, and real API-based interaction with AWS services.
 
 ---
 
-## Repository Structure
 
